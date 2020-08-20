@@ -25,7 +25,7 @@
 						<g class="subtechnique T1566.001" transform="translate(15, 134.33333333333331)">
 							<rect class="cell" height="67.16666666666666" width="90.7752808988764" fill="white" stroke="#6B7279"/>
 							<rect class="cell" height="67.16666666666666" width="3" transform="translate(-3, 0)" fill="#6B7279" stroke="#6B7279"/>
-							<text font-size="9.232627484874675" fill="black">
+							<text font-size="11.232627484874675" fill="black">
 								<tspan x="4" y="28.83333333333333">Spearphishing</tspan>
 								<tspan x="4" y="43.33333333333333">Attachment</tspan>
 							</text>
